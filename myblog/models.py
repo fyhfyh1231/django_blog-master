@@ -3,6 +3,7 @@ from django.utils import timezone
 # Create your models here.
 
 #20190227
+#20190227-2
 class Category(models.Model):
     """
     博客分类
